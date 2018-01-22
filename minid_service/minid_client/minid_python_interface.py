@@ -139,4 +139,3 @@ class MINIDIntegration(object):
             pass
 
 
-mid = MINIDIntegration(config='../config/putman-config.cfg', filename='../things.json', test=True, register=True)
